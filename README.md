@@ -9,7 +9,7 @@ Notes is a project to add and manage reminders, it allows to register users and 
  ```
  git clone https://github.com/<user-name>/notes.git 
  ```
-3. Strat the project
+3. Start the project
 ```
 npm run dev
 ```
